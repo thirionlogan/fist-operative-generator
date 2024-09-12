@@ -3,7 +3,11 @@ import './App.css';
 import CharacterGeneratorForm from './components/CharacterGeneratorForm';
 
 function App() {
-  return <CharacterGeneratorForm />;
+  return (
+    <div className='App'>
+      <CharacterGeneratorForm />
+    </div>
+  );
 }
 
 export default App;
