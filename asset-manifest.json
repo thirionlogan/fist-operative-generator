@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fist-operative-generator/static/css/main.f855e6bc.css",
-    "main.js": "/fist-operative-generator/static/js/main.fd6bca31.js",
+    "main.css": "/fist-operative-generator/static/css/main.f9f46100.css",
+    "main.js": "/fist-operative-generator/static/js/main.026cb5f3.js",
     "static/js/453.67c2071f.chunk.js": "/fist-operative-generator/static/js/453.67c2071f.chunk.js",
     "index.html": "/fist-operative-generator/index.html",
-    "main.f855e6bc.css.map": "/fist-operative-generator/static/css/main.f855e6bc.css.map",
-    "main.fd6bca31.js.map": "/fist-operative-generator/static/js/main.fd6bca31.js.map",
+    "main.f9f46100.css.map": "/fist-operative-generator/static/css/main.f9f46100.css.map",
+    "main.026cb5f3.js.map": "/fist-operative-generator/static/js/main.026cb5f3.js.map",
     "453.67c2071f.chunk.js.map": "/fist-operative-generator/static/js/453.67c2071f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.fd6bca31.js"
+    "static/css/main.f9f46100.css",
+    "static/js/main.026cb5f3.js"
   ]
 }
