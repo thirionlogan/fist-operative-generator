@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "FIST operative generator",
+  "name": "FIST random operative generator",
   "icons": [
     {
       "src": "favicon.ico",
